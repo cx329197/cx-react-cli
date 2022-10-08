@@ -1,0 +1,25 @@
+{
+  "name": "react-booster-cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chenxing <chenxing@emar.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/react-booster-cli.js",
+  "bin": {
+    "booster": "bin/booster.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/react-booster-cli.test.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
