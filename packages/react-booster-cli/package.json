@@ -2,7 +2,7 @@
   "name": "cx-react-cli",
   "version": "0.1.1",
   "description": "> TODO: description",
-  "author": "chenxing <chenxing@emar.com>",
+  "author": "cx",
   "homepage": "",
   "license": "ISC",
   "main": "lib/react-booster-cli.js",
